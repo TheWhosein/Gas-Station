@@ -9,5 +9,5 @@ The code includes two functions: gas and market. The gas function takes in the q
 # Usage
 To use the code, simply run the GasStation.java file in your Java compiler or runtime environment. The code will prompt the user to enter the quantity of gas and/or market items they wish to purchase. The code will then calculate the total cost based on the current price and display the result to the user.
 
-#Contributing
+# Contributing
 Contributions are welcome! If you find a bug or would like to add a feature to the code, feel free to submit a pull request. Please make sure to include a detailed description of your changes and any relevant testing information.
